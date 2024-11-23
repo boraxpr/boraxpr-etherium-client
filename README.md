@@ -4,6 +4,14 @@
 
 This project is a **learning experiment** where I explored connecting a Node.js backend to an Ethereum blockchain using Ganache (a local Ethereum test network). My goal was to understand how blockchain interactions workin a decentralized environment and to gain hands-on experience with Ethereum development tools like Ganache, Web3.js, and PM2.
 
+### Ganache
+
+![Ganache](image.png)
+
+### PM2
+
+![PM2](image-1.png)
+
 ### Why This Project?
 
 I wanted to explore the basics of building a dApp because I was curious about how blockchain technology could be used to create secure and transparent applications. Additionally, I aimed to understand the practical aspects of working with smart contracts and decentralized networks in a real-world scenario.
